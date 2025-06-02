@@ -50,10 +50,3 @@ The dataset contains detailed metadata for Apple App Store applications, includi
 - `Matplotlib`, `Seaborn` for data visualization
 - `Jupyter Notebook` for analysis and interactive exploration
 
----
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/apple-appstore-eda.git
-   cd apple-appstore-eda
